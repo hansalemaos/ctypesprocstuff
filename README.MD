@@ -1,6 +1,7 @@
 # Some ctypes stuff for processes
 
-## pip install randomandroidphone
+## pip install ctypesprocstuff
+
 
 ### Tested against Windows 10 / Python 3.11 / Anaconda
 
